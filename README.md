@@ -2,8 +2,8 @@
 <h2 align="left">About me</h2>
 <h3 align="left">A passionate Data Scientist</h3>
 
-<h2 align="left">CV</h2>
- - [Резюме](https://github.com/boringflex/boringflex/blob/main/Data_Scientist_CV.pdf)
+<h2 align="left">Му CV</h2>
+ - [CV.pdf](https://github.com/boringflex/boringflex/Data_Scientist_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
