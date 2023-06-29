@@ -3,7 +3,7 @@
 <h3 align="left">A passionate Data Scientist</h3>
 
 <h2 align="left">Му CV</h2>
- - [CV.pdf](https://github.com/boringflex/boringflex/Data_Scientist_CV.pdf)
+ - [CV.pdf](https://github.com/boringflex/boringflex/blob/408b9a110824807666e7ad7364b35340bd8df8d9/Data_Scientist_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
