@@ -4,12 +4,11 @@
 
 
 <h3 align="left">Му CV</h3>
- - [CV.pdf](https://github.com/boringflex/boringflex/blob/main/Data_Scientist_CV.pdf)  
-<a href="https://github.com/boringflex/boringflex/blob/main/Data_Scientist_CV.pdf">CV.pdf</a>
+ - <a href="https://github.com/boringflex/boringflex/blob/main/Data_Scientist_CV.pdf">CV.pdf</a>
 
 
 <h3 align="left">Certificates</h3>
- - Яндекс.Практикум: Специалист по Data Science [RUS](https://github.com/boringflex/boringflex/blob/main/certificate.pdf) / [EN](https://github.com/boringflex/boringflex/blob/main/certificate_en.pdf)
+ - Яндекс.Практикум: Специалист по Data Science <a href="https://github.com/boringflex/boringflex/blob/main/certificate.pdf">RUS</a> / <a href="https://github.com/boringflex/boringflex/blob/main/certificate_en.pdf">EN</a>
 
 
 <h3 align="left">Connect with me:</h3>
