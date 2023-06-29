@@ -1,10 +1,11 @@
-<h1 align="left">Hi, I'm Rinat</h1>
+<h1 align="left">Hi, I'm boringflex</h1>
 <h2 align="left">About me</h2>
 <h3 align="left">A passionate Data Scientist</h3>
 
 
 <h3 align="left">Му CV</h3>
- - [CV.pdf] (https://github.com/boringflex/boringflex/blob/main/Data_Scientist_CV.pdf)
+ - [CV.pdf](https://github.com/boringflex/boringflex/blob/main/Data_Scientist_CV.pdf)  
+<a href="https://github.com/boringflex/boringflex/blob/main/Data_Scientist_CV.pdf">CV.pdf</a>
 
 
 <h3 align="left">Certificates</h3>
