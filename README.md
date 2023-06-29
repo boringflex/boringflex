@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rinat</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h1 align="left">Hi, I'm Rinat</h1>
+<h2 align="left">About me</h2>
+<h3 align="left">A passionate Data Scientist</h3>
 
+<h2 align="left">CV</h2>
+ - [Резюме](https://github.com/boringflex/boringflex/blob/main/Data_Scientist_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
