@@ -6,11 +6,11 @@
 
 
 <h3 align="left">Му CV</h3>
- - <a href="https://github.com/boringflex/boringflex/blob/main/Data_Scientist_CV.pdf">CV.pdf</a>
+<a href="https://github.com/boringflex/boringflex/blob/main/Data_Scientist_CV.pdf">CV.pdf</a>
 
 
 <h3 align="left">Certificates</h3>
- - Data Scientist Professional Training Course at Practicum by Yandex (INO CPE “Yandex EdTech”) <a href="https://github.com/boringflex/boringflex/blob/main/certificate.pdf">RUS</a> / <a href="https://github.com/boringflex/boringflex/blob/main/certificate_en.pdf">EN</a>
+Data Scientist Professional Training Course at Practicum by Yandex (INO CPE “Yandex EdTech”) <a href="https://github.com/boringflex/boringflex/blob/main/certificate.pdf">RUS</a> / <a href="https://github.com/boringflex/boringflex/blob/main/certificate_en.pdf">EN</a>
 
 
 <h3 align="left">My Repositories</h3>
@@ -35,15 +35,25 @@
 <h2 align="left">Technologies</h2>
 <h4 align="left">Data Science:</h4>
 <p align="left">
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Keras, Catboost, Pytorch, PySpark, Anaconda, Jupyter.  
+</p>
+<p align="left">
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="60"/> </a> 
+<a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="60" height="60"/> </a> 
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> </a> 
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="60"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="60" height="60"/> </a> 
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" alt="pytorch" width="60" height="60"/> </a> 
+<a href="https://www.anaconda.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" width="60" height="60"/> </a> 
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="60"/> </a> 
 </p>
 
 
 <h4 align="left">DevOps Tools:</h4>
 <p align="left">
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="bash" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
 
@@ -66,5 +76,5 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boringflex&label=Profile%20views&color=0e75b6&style=flat" alt="boringflex" /> </p>
-<a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="60" height="60"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" /> </a>
